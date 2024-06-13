@@ -633,6 +633,8 @@ body nav {
  border-bottom: #292929;
  display:grid;
  align-items:center;
+ width: 1300px;
+ height: 100px;
 }
 body nav .logo {
  grid-area:logo
