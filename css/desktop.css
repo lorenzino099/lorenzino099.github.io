@@ -310,7 +310,7 @@ textarea::placeholder {
 }
 input[type=text],
 select {
- max-width:200px;
+ max-width:400px;
 }
 textarea {
  line-height:1.5em;
@@ -762,7 +762,7 @@ body nav .margin {
  position: absolute;
  top: 50px;
  right: 0%;
- width: 250px;
+ width: 400px;
  backdrop-filter:blur(9px);
 }
 #chat.active,
